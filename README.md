@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Desalegngetachew
-- 👀 I’m interested in flutter
-- 🌱 I’m currently learning software engineering at Bahir Dar University.
+- 👀 I’m interested in front end development
+- 🌱 I’m graduated in software engineering from Bahir Dar University.
 - 💞️ I’m looking to collaborate on Flutter dev.t
 - 📫 You can reach me at desalegn251@gmail.com
 
