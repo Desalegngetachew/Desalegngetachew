@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Desalegngetachew
+- Assistant Lecturer
 - 👀 I’m interested in front end development
 - 🌱 I’m graduated in software engineering from Bahir Dar University.
 - 💞️ I’m looking to collaborate on Flutter dev.t
